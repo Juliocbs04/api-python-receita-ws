@@ -1,2 +1,5 @@
 Compilar pelo arquivo main
 python main.py
+
+
+Criar o banco e a tabela primeiro do arquivo sql
