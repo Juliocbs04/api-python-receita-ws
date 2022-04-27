@@ -1,0 +1,2 @@
+Compilar pelo arquivo main
+python main.py

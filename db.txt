@@ -1,0 +1,8 @@
+CREATE DB aplicacao_db;
+
+CREATE table filiais(
+codigo_filial SERIAL PRIMARY KEY,
+cnpj VARCHAR(14) NOT NULL,
+nome VARCHAR(120) NOT NULL,
+cidade VARCHAR(120) NOT NULL,
+uf VARCHAR(2) NOT NULL);
